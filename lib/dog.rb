@@ -4,7 +4,7 @@ def name
 end
 
 def name=(name)
-@name = "Lassie"
+@this_dogs_name = name 
 end
 
 
